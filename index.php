@@ -17,7 +17,8 @@
 
 ?>
 <?php
-
+	
+	// jätsin mõlemad alles
 	echo "Täna oli mu auto esiklaas jääs";
-
+	echo "Jetfuel can't melt steel beams";
 ?>
