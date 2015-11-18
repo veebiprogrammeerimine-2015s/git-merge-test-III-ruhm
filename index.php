@@ -18,6 +18,6 @@
 ?>
 <?php
 
-	echo "Siin oli romil";
+	echo "Jetfuel can't melt steel beams";
 
 ?>
