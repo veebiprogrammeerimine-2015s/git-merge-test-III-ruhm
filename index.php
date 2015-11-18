@@ -18,6 +18,6 @@
 ?>
 <?php
 
-	echo "Siin oli romil";
+	echo "Täna oli mu auto esiklaas jääs";
 
 ?>
